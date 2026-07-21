@@ -17,13 +17,13 @@ metadata:
     short: jc
 assets:
   parts:
-  - {seq: 0, filename: KR3ef032_000-jc.yaml, hash: 'sha256:67e4b5fa2125b2a6b689e270e4d84be5b16d5d085b500fca3266ae56ead14428'}
+  - {seq: 0, filename: KR3ef032_000-jc.yaml, hash: 'sha256:218a02f631e0a0b54412a78bc6f8d256bd55773741f76fbab4f0edaf53c6d54a'}
   - {seq: 1, filename: KR3ef032_001-jc.yaml, hash: 'sha256:0c21e6bb9a7bc1520663e42160506d2405a9ad4f20c3bf9e9bee63a0bf5e4eed'}
   - {seq: 2, filename: KR3ef032_002-jc.yaml, hash: 'sha256:17bbb8f3a0c236568c4717ab88c5d9f897907548c5f2a393a81a60f6842df88e'}
   - {seq: 3, filename: KR3ef032_003-jc.yaml, hash: 'sha256:16517bf12ae9a56f3301ed54fbd1687eca315ef25d0ec5d47d3b58369c39dfe3'}
   - {seq: 4, filename: KR3ef032_004-jc.yaml, hash: 'sha256:6c5f001a78615340f54d12e0cdb491aa353a6882d476571c86046181d3061345'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ef032_000-jc.markers.yaml, hash: 'sha256:4d8582682b0fbc60f6a698b3acf97d9c9e2995a736ce3a06c9820781f8c832e9'}
+  - {seq: 0, role: markers, filename: assets/KR3ef032_000-jc.markers.yaml, hash: 'sha256:e2f9390083cb703c0384a145be5dd7993fce8c5dd875c624e450c5cb6780c0ca'}
   - {seq: 1, role: markers, filename: assets/KR3ef032_001-jc.markers.yaml, hash: 'sha256:0948a86ababc536674ec1e34420244bc7a8ade922075c723c2ab33e3cc8176f5'}
   - {seq: 2, role: markers, filename: assets/KR3ef032_002-jc.markers.yaml, hash: 'sha256:be2ccc96851f878e3ba8c095ea52b94ef10d089c606b0a06659324ec01b0e65b'}
   - {seq: 3, role: markers, filename: assets/KR3ef032_003-jc.markers.yaml, hash: 'sha256:02f395eae357b843704b64c27c7b572e482cec6d913e778e9f4083f97b1d8354'}
@@ -33,7 +33,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ef032_jc_000-d2.h1s1
     span:
-    - front
+    - body
     - 0
     - 445
   label: 花序
@@ -43,7 +43,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ef032_jc_000-d3.h1s1
     span:
-    - front
+    - body
     - 445
     - 1294
   label: 自序
@@ -1629,4 +1629,4 @@ table_of_contents:
   label: 痧穢
   type: section
   level: 3
-hash: sha256:51b90a4ebe7998f41a3c6ba66170e1af04389236ef5147ca535a48f899df5331
+hash: sha256:29945b9600d48aa8dd53e8ce3b5e23f4020da287fc2974345d582c1240bd72d8
